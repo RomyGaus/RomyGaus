@@ -5,5 +5,6 @@ I recently finished the ZTM course „The Complete Web Developer in 2023: Zero t
 
 Currently I'm working on my own projects:
   - personal website
+  - overview app
   - 50 Projects in 50 Days
 
