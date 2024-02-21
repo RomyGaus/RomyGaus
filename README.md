@@ -12,7 +12,7 @@ Beyond coding, I enjoy rock climbing, bouldering, playing bass in my band, and s
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/romy-gaus-46615b272/" float="left">
-<img src="https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" width="50" height="50" />
+<img src="https://camo.githubusercontent.com/3b8814e1f22c453e3a05ceee01ddd40f351587ef02eea9ffcffb33f983d55a34/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" width="50" height="50" />
 /romy-gaus-46615b272/
 </a>
   
